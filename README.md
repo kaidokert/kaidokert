@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**kaidokert/kaidokert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on 
+  
+   My main project is [Cobalt](https://github.com/youtube/cobalt)
+  
+   In addition i'm building a few [Embedded Rust crates](https://crates.io/users/kaidokert)
+  
+- 🌱 I’m currently learning
 
-Here are some ideas to get you started:
+  More embedded Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+   You guessed it, embedded Rust :)
